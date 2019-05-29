@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.whackamolevr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\hcj10\\Desktop\\whack-a-mole-vr\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "whack-a-mole-vr [Testing]"
+        }
+      }
+    }
+  ]
+}
